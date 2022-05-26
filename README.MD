@@ -1,3 +1,3 @@
 #Hello World
 
-Tis is a readme for our first project!
+Tis is a readme for my progile project
